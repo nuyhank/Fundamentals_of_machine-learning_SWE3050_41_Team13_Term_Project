@@ -1,5 +1,7 @@
 # Bitcoin Volatility Regime Classification
 
+colab url: https://colab.research.google.com/drive/1ZiQwmBT1nYG-x1G4j295L4w-yu8xIKyP#scrollTo=-4-0rDpP24T1
+
 This repository contains a machine learning project designed to classify and predict Bitcoin volatility regimes (High/Low). The project utilizes various financial indicators, including cryptocurrencies, S&P 500, VIX, and bond yields, to train models such as Logistic Regression, LDA, Elastic Net, and Random Forest using a walk-forward cross-validation approach.
 
 ## 🚀 Overview
